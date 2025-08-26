@@ -1,2 +1,14 @@
 # Password-Strength-Checker
-A Password Strength Checker is a simple web-based tool that allows users to enter a password and instantly get feedback on its strength. This project is built using HTML for structure, CSS for styling, and JavaScript for logic and interactivity. Real-time password strength detection  Color-coded strength indicator (weak → medium → strong)
+Features
+
+✅ Checks minimum length (e.g., 8 characters)
+
+✅ Checks for uppercase & lowercase letters
+
+✅ Checks for at least one digit
+
+✅ Checks for special characters (!@#$%^&* etc.)
+
+✅ Provides feedback like: Weak, Medium, Strong
+
+✅ Real-time feedback (for web version)
